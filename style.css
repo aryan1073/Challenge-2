@@ -1,0 +1,92 @@
+/* Done for all */
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: blueviolet;
+    text-align: center;
+    font-size: 3vh;
+}
+
+#p1{
+    margin-top: 0.4vh;
+    background-color: rgb(255, 174, 0);
+    text-align: left;
+    padding-left: 1vw;
+    font-size: 4vh;
+    height: 6vh;
+}
+
+/*Unordered List*/
+ul{
+    text-align: left;
+    background-color: aqua;
+    width: 57vw;
+    height: 92vh;
+    margin-top: 0.8vh;
+    font-size: 5vh;
+    padding-left: 4vw;
+
+}
+
+/*Text */
+#p2{
+    text-align: center;
+    margin-top:12vh ;
+    border: 1vh solid red;
+    width: 50vw;
+}
+
+
+hr{
+    margin-top: 0vh;
+    margin-bottom:0vh;
+}
+
+/*Main Image*/
+.Img{
+    display: inline-block;
+}
+
+/*Drag Images class*/
+.ImagesBox{
+    position: absolute;
+    cursor: pointer;
+    padding-top: 10vh;
+    margin-top: 2vh;
+    margin-left: 3vw;
+    height: 70vh;
+    width:57%;
+    display:inline-block;
+    border: 0.2rem solid black;
+}
+
+/*Image Tag*/
+img{
+    padding-left: 22px;
+}
+
+/*Given class in Javascript code */
+.hold{
+    border: solid red 4px;
+}
+
+/*Given class in Javascript code */
+.dashed{
+    background:rgb(214,206,206);
+    border-style:dashed;
+}
+
+/*Given class in Javascript code */
+.hide{
+    display:none;
+}
+
+/*Given in Html document*/
+footer{
+    text-align: center; 
+    font-size: xx-large;
+    padding-top:1vh;
+}
+
